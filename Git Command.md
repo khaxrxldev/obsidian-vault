@@ -40,6 +40,10 @@ git branch -d delete_branch
 ```git
 git branch -D delete_branch
 ```
+- delete remote branch
+```git
+git push origin -d branch_name
+```
 #### UPDATE GIT COMMIT
 It is possible to update the last commit. The comment can be updated and the content of the staged file can also be updated
 ```git
