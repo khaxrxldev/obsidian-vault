@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git Command.md",
+                "file": "Git Conflict.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git Command.md",
+                "file": "Git Conflict.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git Command.md",
+                "file": "Git Conflict.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git Command.md"
+                "file": "Git Conflict.md"
               }
             }
           }
@@ -148,7 +148,9 @@
   },
   "active": "9a79ecd6463941c0",
   "lastOpenFiles": [
-    "Git.md",
-    "Git Command.md"
+    "Git Command.md",
+    "().md",
+    "Git Conflict.md",
+    "Git.md"
   ]
 }
