@@ -4,5 +4,6 @@
   "baseFontSize": 12,
   "showViewHeader": false,
   "translucency": true,
-  "textFontFamily": "Consolas"
+  "textFontFamily": "Consolas",
+  "nativeMenus": true
 }
