@@ -3,7 +3,7 @@
   "interfaceFontFamily": "",
   "baseFontSize": 12,
   "showViewHeader": false,
-  "translucency": true,
+  "translucency": false,
   "textFontFamily": "Consolas",
-  "nativeMenus": true
+  "nativeMenus": false
 }
