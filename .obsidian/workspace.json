@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git Command.md",
+                "file": "Git File.md",
                 "mode": "source",
                 "source": false
               }
@@ -164,11 +164,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "701bf33285fa5476",
+  "active": "27253ca1c2ac7e68",
   "lastOpenFiles": [
+    "Git Conflict.md",
     "Git Command.md",
     "Git File.md",
-    "Git Conflict.md",
     "Untitled.canvas",
     "().md",
     "Git.md"

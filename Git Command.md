@@ -7,7 +7,7 @@ e.g.:
 - branch head
 - commit head
 ### ^ (CARET SYMBOL)
-Caret symbol can be used to ==navigate through the project historical timelines==. ==HEAD^== refer to the ==commit preceding to the current commit==. Numerical values (n) can be added to the HEAD, *e.g.: HEAD^n* to precisely determine the number of commits to go back.
+Caret symbol can be used to ==navigate through the project historical timelines==. ==HEAD^== refer to the ==commit preceding to the current commit==. Numerical values (n) can be added to the HEAD, `e.g.: HEAD^n` to precisely determine the number of commits to go back.
 ```git
 git rev-parse HEAD^ / HEAD^5
 ```
@@ -21,12 +21,12 @@ Remove staged file from the staging area.
 git reset file_name
 ```
 #### ADDING & COMITTING FILE
-Instead of using different git commands *git add .* & *git commit -m "commit message"*, single command can be used to perform the adding & committing process.
+Instead of using different git commands `git add .` & `git commit -m "commit message"`, single command can be used to perform the adding & committing process.
 ```git
 git commit -am "commit message"
 ```
 #### CREATING & SWITCHING TO NEW BRANCH
-Instead of using different git commands *git branch new_branch_name* & *git checkout new_branch_name*, single command can be used to perform the creating and switching to new branch process.
+Instead of using different git commands `git branch new_branch_name` & `git checkout new_branch_name`, single command can be used to perform the creating and switching to new branch process.
 ```git
 git checkout -b new_branch_name
 ```
@@ -69,12 +69,12 @@ Revert current code base to certain commit (A) using the commit hash key. New co
 git revert commit_hash
 ```
 #### COMMIT INFO
-The hash & the comment of commit can be obtained with *git reflog*
+The hash & the comment of commit can be obtained with `git reflog`.
 ```git
 git reflog
 ```
 #### RESET COMMIT
-The last commit can be undo using the *git reset* command
+The last commit can be undo using the `git reset` command.
 - soft reset
 	- un-commits the last commit and ==keep its changes from the staging area==.
 	- changes ==still== in the code base.
