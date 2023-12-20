@@ -5,5 +5,8 @@
   "showViewHeader": false,
   "translucency": false,
   "textFontFamily": "Consolas",
-  "nativeMenus": false
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "Obsidian"
+  ]
 }
